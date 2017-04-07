@@ -1,10 +1,10 @@
-#vue-m-index
+# vue-m-index
  <h5>基于vue的字母索引组件</h5>
 
-##Install
+## Install
 npm install vue-m-index
 
-##Use
+## Use
 ```js
 import indexBar from 'vue-m-index'
 export default {
@@ -29,7 +29,7 @@ export default {
 </index-bar>
 ~~~
 
-##Props
+## Props
 ```
 1. list 展示的数据列表
     type: Array
